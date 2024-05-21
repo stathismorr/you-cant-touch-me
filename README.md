@@ -12,7 +12,6 @@ A fun game built with HTML, CSS, and JavaScript where an orange ball moves away 
 - The ball moves faster with each hover.
 - Sound effects play when the ball moves.
 - Messages appear dynamically based on interactions.
-- Counter remains at "Touched: 0 times" for the user.
 
 ## Technologies Used
 - HTML
