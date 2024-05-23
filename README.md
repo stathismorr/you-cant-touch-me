@@ -1,6 +1,7 @@
 # You Can't Touch Me Game
 
 A simple game built with HTML, CSS, and JavaScript where an orange ball moves away when the user tries to hover over it.
+https://stathismorr.github.io/you-cant-touch-me
 
 ## How to Play
 - Open `index.html` in your browser.
